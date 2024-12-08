@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChefMente</string>
+    <string name="ingredient_hint">Insira o ingrediente e pressione adicionar</string>
+    <string name="add_ingredient_button">Adicionar Ingrediente</string>
+    <string name="find_recipes_button">Buscar Receitas</string>
+    <string name="ingredient_list">Ingredientes na sua despensa:</string>
+    <string name="splash_logo_desc">Logo da tela de splash</string>
+
+</resources>
